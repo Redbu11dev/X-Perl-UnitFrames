@@ -1,4 +1,4 @@
-originally Xperl 1.9.6 , but forked and improved
+Originally Xperl 1.9.6 , but forked and improved
 
 Additional features: 
 
@@ -8,4 +8,5 @@ Additional features:
 
 - Added player pet frame width option
 
-![image](https://github.com/user-attachments/assets/b056bc39-c544-4d0c-ae38-85b80574203e)
+![image](https://github.com/user-attachments/assets/5e7b2831-9377-4415-8735-f44cf5059304)
+
